@@ -1,0 +1,13 @@
+﻿빌드 시작: 2016-12-23 오전 1:51:03
+     1>2 노드의 "C:\Users\cspclab\Desktop\CUDA20141510\CUDA20141510\CUDA20141510.vcxproj" 프로젝트(Clean 대상)입니다.
+     1>CudaClean:
+         cmd.exe /C "C:\Users\cspclab\AppData\Local\Temp\tmpe9ca2b5b7dc645cf8d68694f43fc960e.cmd"
+         "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD " -o x64\Release\kernel.cu.obj "C:\Users\cspclab\Desktop\CUDA20141510\kernel.cu" -clean
+         
+         C:\Users\cspclab\Desktop\CUDA20141510\CUDA20141510>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\bin\nvcc.exe" -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64"  -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v7.5\include"     --keep-dir x64\Release -maxrregcount=0  --machine 64 --compile      -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Zi  /MD " -o x64\Release\kernel.cu.obj "C:\Users\cspclab\Desktop\CUDA20141510\kernel.cu" -clean 
+         kernel.cu
+     1>"C:\Users\cspclab\Desktop\CUDA20141510\CUDA20141510\CUDA20141510.vcxproj" 프로젝트를 빌드했습니다(Clean 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.32
